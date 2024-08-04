@@ -55,7 +55,7 @@ APIKEY1,APIKEY2,APIKEY3
 配置成环境变量
 
 ### 定时执行
-每日北京时间6点自动续费<br>
+每日北京时间1点自动续费<br>
 
 ## 相关项目
 [海绵联机自动签到](https://github.com/xjh2009/hmmc-renew)<br>
